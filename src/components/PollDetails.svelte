@@ -57,12 +57,12 @@
 <style>
     h3{
     margin: 0 auto;
-    color: #555;
+    color: rgb(238, 226, 226);
   }
   p{
     margin-top: 6px;
     font-size: 14px;
-    color: #aaa;
+    color: rgb(231, 247, 14);
     margin-bottom: 30px;
   }
   .answer{
@@ -70,14 +70,15 @@
     cursor: pointer;
     margin: 10px auto;
     position: relative;
+    opacity: 0.5;
   }
   .answer:hover{
-    opacity: 0.7;
+    opacity: 1;
   }
   span{
     display: inline-block;
     padding: 10px 20px;
-    color: rgb(27, 8, 8);
+    color: rgb(19, 1, 1);
   }
   .percent{
     height: 100%;

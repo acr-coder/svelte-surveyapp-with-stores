@@ -15,7 +15,7 @@
 <style>
     header{
         display: flex;
-        background-color: #f7f7f7;
+        background-color: #e6cdcd;
         padding: 20px;        
     }
     h1{
@@ -23,17 +23,7 @@
         margin: 0;
         text-align: center;
     }
-    img{
-        max-width: 180px;
-    }
-    ul{
-        display: flex;
-    }
-    li{
-        list-style-type: none;
-        margin-right: 10px;
-        cursor: pointer;
-        padding: 0;
-    }
+    
+    
     
 </style>
